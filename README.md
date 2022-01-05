@@ -6,3 +6,6 @@ All datasets are also available at: https://www.kaggle.com/isaacwen/datasets
 
 ## Popular Languages Viz
 ![image](https://user-images.githubusercontent.com/76772867/147891288-e51e1d98-dbd4-420b-becf-df1de9173cc5.png)
+
+## Dude Perfect Battles Viz
+![image](https://user-images.githubusercontent.com/76772867/148291800-5d148415-bf8d-45ab-a50d-d6cca316ecf9.png)
